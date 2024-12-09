@@ -150,6 +150,7 @@ Here are some screenshots of the Task Management App:
 ![Screenshot 2024-12-09 175239](https://github.com/user-attachments/assets/6fa30d31-b6e6-41b5-a082-fc62b2bc1b27)
 ![Screenshot 2024-12-09 175214](https://github.com/user-attachments/assets/a745bd5d-c08c-491b-bbbd-ce049bdb5c25)
 
+
 API Endpoints (Backend)
 User Endpoints
 POST /api/auth/register - Register a new user.
@@ -161,3 +162,7 @@ PUT /api/tasks/{id} - Update an existing task.
 DELETE /api/tasks/{id} - Delete a task.
 Authentication
 POST /api/auth/login - Logs in the user and returns a JWT token. The token should be included in the headers for subsequent API calls.
+
+
+
+
